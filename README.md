@@ -106,13 +106,7 @@
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukruthr&theme=tokyonight)
-
-<br/>
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sukruthr&theme=tokyonight)
-&nbsp;&nbsp;
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukruthr&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sukruthr&theme=tokyo-night&hide_border=true)
 
 <br/>
 
