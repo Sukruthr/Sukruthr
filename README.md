@@ -5,8 +5,8 @@
 
   <p><strong>AI/ML Engineer focused on reliable LLM products, agent orchestration, and production deployment.</strong></p>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Sukruthr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukruthr)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sukruth%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukruth-reddy)
+  [![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukruthr)
+  [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukruth-reddy)
   [![Location](https://img.shields.io/badge/Seattle,%20WA-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Sukruthr)
 </div>
 
