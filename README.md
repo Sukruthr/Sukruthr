@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukruth-reddy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukruthr)
 [![Location](https://img.shields.io/badge/Seattle%2C%20WA-%230078D4.svg?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Sukruthr)
-![Profile Views](https://komarev.com/ghpvc/?username=Sukruthr&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -107,23 +106,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukruthr&show_icons=true&theme=tokyonight&hide_border=true)
-&nbsp;&nbsp;
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sukruthr&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukruthr&theme=tokyonight)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukruthr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sukruthr&theme=tokyonight)
+&nbsp;&nbsp;
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sukruthr&theme=tokyonight)
 
-</div>
+<br/>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Sukruthr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sukruthr&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -141,8 +134,6 @@
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sukruthr&color=7aa2f7&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
