@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukruth-reddy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sukruthr)
 [![Location](https://img.shields.io/badge/Seattle%2C%20WA-%230078D4.svg?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Sukruthr)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sukruthr&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Sukruthr&color=7aa2f7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -107,13 +107,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sukruthr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukruthr&show_icons=true&theme=tokyonight&hide_border=true)
 &nbsp;&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sukruthr&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sukruthr&theme=tokyonight&hide_border=true)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukruthr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukruthr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Sukruthr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Sukruthr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -142,7 +142,7 @@
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Sukruthr&label=Profile%20Views&icon=6&color=6&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=Sukruthr&color=7aa2f7&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
