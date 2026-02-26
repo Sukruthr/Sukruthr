@@ -63,12 +63,21 @@
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sukruthr&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sukruthr&theme=tokyonight" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Sukruthr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <table>
+    <tr>
+      <td>
+        <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sukruthr&theme=tokyonight&v=2" alt="GitHub stats" />
+      </td>
+      <td>
+        <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sukruthr&theme=tokyonight&v=2" alt="Top languages by repo" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="800" src="https://streak-stats.demolab.com?user=Sukruthr&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Recent Activity Timeline
